@@ -1,0 +1,2 @@
+markdown-notes-library
+A collection of Markdown notes (easy to edit → many commits).
